@@ -31,6 +31,7 @@ form.addEventListener("submit", (e) => {
     inputValue.value = "";
 });
 
+console.log("Hello");
 
 
 
